@@ -1,0 +1,7 @@
+Search-Category.xcodeproj/xcuserdata/
+Search-Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+Search-Category.xcodeproj/project.xcworkspace/xcuserdata/
